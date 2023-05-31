@@ -1,5 +1,4 @@
-
-### Olá, eu sou o Henrique! 🐺
+<h1 align="center"> Olá, eu sou o Henrique! 🐺 👋 </h1>
 
 #
 
