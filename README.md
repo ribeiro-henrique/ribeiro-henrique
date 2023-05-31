@@ -1,29 +1,40 @@
-<h1 align="center"> Olá, eu sou o Henrique! 🐺 👋 </h1>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=50fa7b&height=120&section=header"/>
 
-#
+<h1 align="center"> Olá, eu sou o Henrique! 🐺 </h1>
 
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](<mailto: hesr.ribeiro@gmail.com>)
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hesr/)
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ribeiro_hesr/)
-[![linkedin](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/31991111501)
+<h3 align="center"> ⚖️ Advogado regularmente inscrito na OAB-MG e pessoa Desenvolvedora em construção! 🖥️</h3>
 
-![ribeiro-henrique GitHub stats](https://github-readme-stats.vercel.app/api?username=ribeiro-henrique&show_icons=true&theme=tokyonight)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=50fa7b&size=25&center=true&vCenter=true&width=1000&lines=Software+Developer+in+the+making;Welcome!+Feel+free+to+contact+me!+:%29)](https://git.io/typing-svg)
 
-#
-### Conhecimento e Aplicações em:
-#
+##
 
+<div align="center">
+  <a href="https://github.com/ribeiro-henrique">
+  <img height="175px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ribeiro-henrique&show_icons=true&count_private=true&title_color=f061f2&icon_color=50fa7b&text_color=c9d1d9&bg_color=0d1117" alt="Henrique Ribeiro Stats" /> 
+  <img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ribeiro-henrique&layout=compact&title_color=f061f2&text_color=c9d1d9&bg_color=0d1117" /></a>
+</div>
 
-![figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<br>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ribeiro-henrique&bg_color=0d1117&color=f061f2&line=50fa7b&point=f061f2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-#
-### Você pode me econtrar também em:
-#
-[![spotfy](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/12184006864)
+<div style="display: inline_block" align="center"><br>
+  <img align="center" alt="Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Jest" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">
+  <img align="center" alt="RTL" height="40" width="40" src="https://testing-library.com/img/octopus-128x128.png">
+  <img align="center" alt="React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Redux" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
+</div>
 
-[![steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/distraivis/)
+##
 
+<div align="center"> 
+  <a href="https://www.instagram.com/ribeiro_hesr/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/hesr/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
+<br>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=50fa7b&height=120&section=footer"/>
