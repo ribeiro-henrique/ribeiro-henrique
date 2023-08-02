@@ -1,40 +1,125 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=50fa7b&height=120&section=header"/>
-
-<h1 align="center"> Olá, eu sou o Henrique! 🐺 </h1>
-
-<h3 align="center"> ⚖️ Advogado regularmente inscrito na OAB-MG e pessoa Desenvolvedora em construção! 🖥️</h3>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=50fa7b&size=25&center=true&vCenter=true&width=1000&lines=Software+Developer+in+the+making;Welcome!+Feel+free+to+contact+me!+:%29)](https://git.io/typing-svg)
-
-##
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9bc4df&height=120&section=header"/>
 <div align="center">
-  <a href="https://github.com/ribeiro-henrique">
-  <img height="175px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ribeiro-henrique&show_icons=true&count_private=true&title_color=f061f2&icon_color=50fa7b&text_color=c9d1d9&bg_color=0d1117" alt="Henrique Ribeiro Stats" /> 
-  <img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ribeiro-henrique&layout=compact&title_color=f061f2&text_color=c9d1d9&bg_color=0d1117" /></a>
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9bc4df&size=35&center=true&vCenter=true&width=1000&lines=Hi+there,+im+Henrique+Ribeiro+!;I'm+Web+Developer+🖥️;I'm+living+in+Minas+Gerais+🌎;Welcome!+:%29)](https://git.io/typing-svg)
+
+ <br>
+ <br>
+
+  <div align="center">
+  <a href="https://www.linkedin.com/in/hesr/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="linkedin logo"  />
+  </a>
+  <a href = "mailto:hesr.ribeiro@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" height="24" target="_blank">
+
 </div>
+  
+###
 
-<br>
+<br />
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ribeiro-henrique&bg_color=0d1117&color=f061f2&line=50fa7b&point=f061f2&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<h3 align="center">Main Skills:</h3>
 
-<div style="display: inline_block" align="center"><br>
-  <img align="center" alt="Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Jest" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg">
-  <img align="center" alt="RTL" height="40" width="40" src="https://testing-library.com/img/octopus-128x128.png">
-  <img align="center" alt="React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Redux" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
-</div>
+<br />
+    
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
+![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Typescript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=typescript&labelColor=0D1117&textColor=0D1117)&nbsp;
 
-##
+###
 
-<div align="center"> 
-  <a href="https://www.instagram.com/ribeiro_hesr/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a href="https://www.linkedin.com/in/hesr/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-<br>
+<br />
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=50fa7b&height=120&section=footer"/>
+<h3 align="center">Languages and Tools:</h3>
+
+<br />
+<br />
+
+<table>
+  <tbody>
+    <tr>
+      <td style="display: flex; align-items: center;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+        <span>&nbsp;&nbsp;Javascript</span>
+      </td>
+      <td style="display: flex; align-items: center;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
+        <span>&nbsp;&nbsp;Typescript</span>
+      </td>
+      <td style="display: flex; align-items: center;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
+        <span>&nbsp;&nbsp;React</span>
+      </td>
+      <td style="display: flex; align-items: center;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo" />
+        <span>&nbsp;&nbsp;Jest</span>
+      </td>
+      <td style="display: flex; align-items: center;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
+        <span>&nbsp;&nbsp;HTML</span>
+      </td>
+    </tr>
+    <tr>
+      <td style="display: flex; align-items: center;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
+        <span>&nbsp;&nbsp;CSS</span>
+      </td>
+      <td style="display: flex; align-items: center;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
+        <span>&nbsp;&nbsp;Node.js</span>
+      </td>
+      <td style="display: flex; align-items: center;">
+        <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo" />
+        <span>&nbsp;&nbsp;Express</span>
+      </td>
+      <td style="display: flex; align-items: center;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
+        <span>&nbsp;&nbsp;Docker</span>
+      </td>
+      <td style="display: flex; align-items: center;">
+        <img src="https://cdn.simpleicons.org/gnubash/4EAA25.svg" height="40" alt="bash logo" />
+        <span>&nbsp;&nbsp;Bash</span>
+      </td>
+    </tr>
+    <tr>
+      <td style="display: flex; align-items: center;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
+        <span>&nbsp;&nbsp;Git</span>
+      </td>
+      <td style="display: flex; align-items: center;">
+        <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" />
+        <span>&nbsp;&nbsp;GitHub</span>
+      </td>
+      <td style="display: flex; align-items: center;">
+        <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo" />
+        <span>&nbsp;&nbsp;Linux</span>
+      </td>
+      <td style="display: flex; align-items: center;">
+        <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo" />
+        <span>&nbsp;&nbsp;Next.js</span>
+      </td>
+      <td style="display: flex; align-items: center;">
+        <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC.svg" height="40" alt="vscode logo" />
+        <span>&nbsp;&nbsp;VSCode</span>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<br />
+<br />
+
+
+<div align="center">  
+  <img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ribeiro-henrique&show_icons=true&theme=radical&count_private=true&hide_border=true&title_color=9bc4df&icon_color=9bc4df&text_color=c9d1d9&bg_color=0d1117" alt="Henrique Ribeiro github stats" /> 
+  <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ribeiro-henrique&layout=compact&hide_border=true&title_color=9bc4df&text_color=9bc4df&bg_color=0d1117" />
+
+
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9bc4df&height=120&section=footer"/>
+
+
+
+
+
+ 
