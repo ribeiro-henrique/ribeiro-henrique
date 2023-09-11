@@ -52,12 +52,16 @@
         <span>&nbsp;&nbsp;React</span>
       </td>
       <td style="display: flex; align-items: center;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo" />
-        <span>&nbsp;&nbsp;Jest</span>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnet logo" />
+        <span>&nbsp;&nbsp;.NET</span>
       </td>
       <td style="display: flex; align-items: center;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
-        <span>&nbsp;&nbsp;HTML</span>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo" />
+        <span>&nbsp;&nbsp;Csharp</span>
+      </td>
+      <td style="display: flex; align-items: center;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo" />
+        <span>&nbsp;&nbsp;Jest</span>
       </td>
     </tr>
     <tr>
@@ -76,6 +80,10 @@
       <td style="display: flex; align-items: center;">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
         <span>&nbsp;&nbsp;Docker</span>
+      </td>
+      <td style="display: flex; align-items: center;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visual logo" />
+        <span>&nbsp;&nbsp;Visual Studio</span>
       </td>
       <td style="display: flex; align-items: center;">
         <img src="https://cdn.simpleicons.org/gnubash/4EAA25.svg" height="40" alt="bash logo" />
@@ -102,6 +110,10 @@
       <td style="display: flex; align-items: center;">
         <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC.svg" height="40" alt="vscode logo" />
         <span>&nbsp;&nbsp;VSCode</span>
+      </td>
+      <td style="display: flex; align-items: center;">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
+        <span>&nbsp;&nbsp;HTML</span>
       </td>
     </tr>
   </tbody>
