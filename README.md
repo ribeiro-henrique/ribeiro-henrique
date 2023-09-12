@@ -104,8 +104,8 @@
         <span>&nbsp;&nbsp;Linux</span>
       </td>
       <td style="display: flex; align-items: center;">
-        <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo" />
-        <span>&nbsp;&nbsp;Next.js</span>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" height="40" alt="sequelize logo" />
+        <span>&nbsp;&nbsp;Sequelize</span>
       </td>
       <td style="display: flex; align-items: center;">
         <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC.svg" height="40" alt="vscode logo" />
