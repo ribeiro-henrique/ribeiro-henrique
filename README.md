@@ -108,8 +108,8 @@
         <span>&nbsp;&nbsp;Sequelize</span>
       </td>
       <td style="display: flex; align-items: center;">
-        <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC.svg" height="40" alt="vscode logo" />
-        <span>&nbsp;&nbsp;VSCode</span>
+        <img src="https://cdn.simpleicons.org/nestjs/E0234E" height="40" alt="nest logo" />
+        <span>&nbsp;&nbsp;NestJS</span>
       </td>
       <td style="display: flex; align-items: center;">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
